@@ -1,5 +1,12 @@
 # @backstage/plugin-auth-backend
 
+## 0.17.1-next.1
+
+### Patch Changes
+
+- 0d6837ca4e: Fix wrong GitHub callback URL documentation
+- abaed9770e: Improve logging
+
 ## 0.17.1-next.0
 
 ### Patch Changes

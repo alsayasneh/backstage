@@ -1,5 +1,15 @@
 # @backstage/plugin-bazaar
 
+## 0.2.0-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.12.0-next.1
+  - @backstage/cli@0.21.0-next.0
+  - @backstage/plugin-catalog@1.6.1-next.1
+  - @backstage/plugin-catalog-react@1.2.1-next.1
+
 ## 0.2.0-next.0
 
 ### Minor Changes

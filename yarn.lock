@@ -3769,7 +3769,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@backstage/create-app@workspace:*, @backstage/create-app@workspace:packages/create-app":
+"@backstage/create-app@^0.4.34-next.1, @backstage/create-app@workspace:packages/create-app":
   version: 0.0.0-use.local
   resolution: "@backstage/create-app@workspace:packages/create-app"
   dependencies:
@@ -35340,7 +35340,7 @@ __metadata:
   dependencies:
     "@backstage/cli": "workspace:*"
     "@backstage/codemods": "workspace:*"
-    "@backstage/create-app": "workspace:*"
+    "@backstage/create-app": ^0.4.34-next.1
     "@backstage/errors": "workspace:^"
     "@changesets/cli": ^2.14.0
     "@manypkg/get-packages": ^1.1.3

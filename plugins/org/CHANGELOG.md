@@ -1,5 +1,17 @@
 # @backstage/plugin-org
 
+## 0.6.0-next.1
+
+### Minor Changes
+
+- 0b11500151: Updates the User and Group Profile cards to add the links from the UserEntity or the GroupEntity
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.12.0-next.1
+  - @backstage/plugin-catalog-react@1.2.1-next.1
+
 ## 0.5.11-next.0
 
 ### Patch Changes

@@ -1,5 +1,15 @@
 # @backstage/plugin-github-actions
 
+## 0.5.11-next.1
+
+### Patch Changes
+
+- ed438a3ba5: Add error panel when the plugin fails.
+- 0d6837ca4e: Fix wrong GitHub callback URL documentation
+- Updated dependencies
+  - @backstage/core-components@0.12.0-next.1
+  - @backstage/plugin-catalog-react@1.2.1-next.1
+
 ## 0.5.11-next.0
 
 ### Patch Changes

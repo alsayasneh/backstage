@@ -1,5 +1,12 @@
 # @backstage/plugin-gcalendar
 
+## 0.3.7-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.12.0-next.1
+
 ## 0.3.7-next.0
 
 ### Patch Changes

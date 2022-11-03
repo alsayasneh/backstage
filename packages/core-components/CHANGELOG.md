@@ -1,5 +1,11 @@
 # @backstage/core-components
 
+## 0.12.0-next.1
+
+### Patch Changes
+
+- b4fb5c8ecc: MissingAnnotationEmptyState now accepts either a string or an array of strings to support multiple missing annotations.
+
 ## 0.12.0-next.0
 
 ### Minor Changes
